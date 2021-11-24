@@ -41,9 +41,9 @@ Parameters:
   AWXVersion:
     Description: Which version of AWX to use
     Type: String
-    Default: 17.1.0
+    Default: 17.1.1
     AllowedValues:
-      - 17.1.0
+      - 17.1.1
   AWXGitHubRepo:
     Description: Which github should we use as the source for the build
     Type: String

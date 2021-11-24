@@ -124,9 +124,9 @@ Parameters:
   AWXVersion:
     Description: Which version of AWX to use
     Type: String
-    Default: 17.1.0
+    Default: 17.1.1
     AllowedValues:
-      - 17.1.0
+      - 17.1.1
   AWXAdminPassword:
     Description: AWX Admin Password. Required
     Type: String
